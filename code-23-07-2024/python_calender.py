@@ -42,10 +42,10 @@ import calendar
 
 
 
-cal2 = calendar.HTMLCalendar()
-cal_html = cal2.formatyear(2025)
+# cal2 = calendar.HTMLCalendar()
+# cal_html = cal2.formatyear(2025)
 
-print(cal_html)
+# print(cal_html)
 
 
 
