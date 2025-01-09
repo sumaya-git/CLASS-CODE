@@ -1,0 +1,2 @@
+[console_scripts]
+codecounter = code_count_sumaya.main:main

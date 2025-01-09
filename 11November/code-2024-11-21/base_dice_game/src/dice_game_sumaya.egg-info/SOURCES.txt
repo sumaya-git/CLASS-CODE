@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+src/dice_game_sumaya/__init_-.py
+src/dice_game_sumaya/dice.py
+src/dice_game_sumaya/dice_board.py
+src/dice_game_sumaya/dummy_dice_game.py
+src/dice_game_sumaya/main.py
+src/dice_game_sumaya/version.py
+src/dice_game_sumaya.egg-info/PKG-INFO
+src/dice_game_sumaya.egg-info/SOURCES.txt
+src/dice_game_sumaya.egg-info/dependency_links.txt
+src/dice_game_sumaya.egg-info/top_level.txt
+src/dice_game_sumaya/dice_game_abstracts/__init__.py
+src/dice_game_sumaya/dice_game_abstracts/dice_game.py
+src/dice_game_sumaya/dice_game_abstracts/die.py

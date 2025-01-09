@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: code_count_sumaya
+Version: 1.0.2
+Summary: A package to perform basic mathematical operation.
+Author-email: Sumaya Hakeem <sumaiaislam7876@gmail.com>
+Keywords: calculator,math,addition,multiplication,subtraction
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENCE
